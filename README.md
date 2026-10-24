@@ -18,9 +18,9 @@ Optimal performance and clean, maintainable code.
 
 🛠️ Tech Stack
 
-Primary Ecosystem (Fullstack JS):
+Primary Ecosystem (Fullstack JS): Next.js, Node.js, Prisma, PostgreSQL, Tailwind.
 
-Secondary Ecosystem (PHP/Laravel):
+Secondary Ecosystem (PHP/Laravel): Laravel, php, mySQL, Vite.js
 
 🚀 What I'm Building
 
